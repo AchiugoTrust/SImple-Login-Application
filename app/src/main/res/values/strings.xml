@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple Login Application</string>
+    <string name="user"> User</string>
+    <string name="login_page"> Login Page</string>
+    <string name="user_name"> User Name</string>
+    <string name="password">Password</string>
+    <string name="attempts">Attempts</string>
+    <string name="login">Login</string>
+    <string name="second_page"> Welcome to the second page </string>
+
+
+</resources>
